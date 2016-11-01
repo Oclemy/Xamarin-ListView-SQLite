@@ -1,0 +1,8 @@
+ListView_SQLite.MainActivity, ListView SQLite;md56b9e86fd6eddece4b0b3255bd730858c.MainActivity
+ListView_SQLite.MainActivity, ListView SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56b9e86fd6eddece4b0b3255bd730858c.MainActivity
+ListView_SQLite.MainActivity;md56b9e86fd6eddece4b0b3255bd730858c.MainActivity
+listview_sqlite.MainActivity;md56b9e86fd6eddece4b0b3255bd730858c.MainActivity
+ListView_SQLite.mDatabase.DBHelper, ListView SQLite;md52d5b9da6269a9b36df57c13eb1b6c081.DBHelper
+ListView_SQLite.mDatabase.DBHelper, ListView SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d5b9da6269a9b36df57c13eb1b6c081.DBHelper
+ListView_SQLite.mDatabase.DBHelper;md52d5b9da6269a9b36df57c13eb1b6c081.DBHelper
+listview_sqlite.mdatabase.DBHelper;md52d5b9da6269a9b36df57c13eb1b6c081.DBHelper
